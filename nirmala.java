@@ -5,4 +5,5 @@ public class nirmala
 		System.out.println("employee details info:");
 	}
 }
+this is a java program
 
